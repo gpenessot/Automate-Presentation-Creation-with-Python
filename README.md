@@ -6,8 +6,8 @@ This repository contains the code and resources used in the article ["Stop Wasti
 ## What's included:
 
 * `automate_presentation.py`: The main Python script used to create presentations.
-* `automate_presentation.ipynb`: A Jupyter notebook demonstrating the script's usage.
-* `assets`: A directory containing presentation templates and other assets.
+* `analysis.ipynb`: A Jupyter notebook demonstrating the script's usage.
+* `data`: A directory containing input data used to create presentation.
 * `requirements.txt`: A file listing the required Python libraries.
 
 ## Getting started:
