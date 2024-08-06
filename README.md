@@ -33,8 +33,8 @@ This will create a new presentation file in the current directory.
 
 ## Additional resources:
 
-    The article: https://medium.com/@gael.penessot/stop-wasting-time-automate-your-presentation-with-python-a721fe39c8e5
-    The [Jupyter notebook](./automate_presentation.ipynb)
+* The article: https://medium.com/@gael.penessot/stop-wasting-time-automate-your-presentation-with-python-a721fe39c8e5
+* The [Jupyter notebook](./automate_presentation.ipynb)
 
 ## License:
 
