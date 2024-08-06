@@ -2,3 +2,4 @@ pandas
 seaborn
 matplotlib
 python-pptx
+loguru
