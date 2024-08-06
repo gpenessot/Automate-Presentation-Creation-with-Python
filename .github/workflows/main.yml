@@ -22,7 +22,7 @@ jobs:
         pip install ruff
     - name: Format with Ruff
       run: |
-        ruff check --fix .
+        ruff check --fix . --exclude auto_pptx
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
