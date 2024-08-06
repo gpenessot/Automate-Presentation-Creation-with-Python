@@ -15,7 +15,7 @@ This repository contains the code and resources used in the article ["Stop Wasti
 Clone the repository:
 
 ```bash
-git clone https://github.com/gpenessot/Automate-Presentation-Creation-with-Python.git
+git clone git@github.com:gpenessot/Automate-Presentation-Creation-with-Python.git
 ```
 
 Install the required libraries:
