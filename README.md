@@ -5,14 +5,15 @@ This repository contains the code and resources used in the article ["Stop Wasti
 
 ## What's included:
 
-    automate_presentation.py: The main Python script used to create presentations.
-    automate_presentation.ipynb: A Jupyter notebook demonstrating the script's usage.
-    assets: A directory containing presentation templates and other assets.
-    requirements.txt: A file listing the required Python libraries.
+* `automate_presentation.py`: The main Python script used to create presentations.
+* `automate_presentation.ipynb`: A Jupyter notebook demonstrating the script's usage.
+* `assets`: A directory containing presentation templates and other assets.
+* `requirements.txt`: A file listing the required Python libraries.
 
 ## Getting started:
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/gpenessot/Automate-Presentation-Creation-with-Python.git
 ```
